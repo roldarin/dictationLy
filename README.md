@@ -1,3 +1,4 @@
-# dictationLy
-random dictations
-s
+# eartraining
+Musical ear training software
+
+Installation Guide
